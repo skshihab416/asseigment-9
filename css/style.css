@@ -1,0 +1,324 @@
+/*author info
+Name:sk shihab sarkar
+email:sorkarshihab416@gmail.com
+*/
+
+
+
+
+
+
+/*Navigation part*/
+.nav-head{
+	background-color: #edeff1;
+	padding: 15px 0px;
+}
+
+
+
+
+/*my menu part*/
+.nav-link.js-scroll-trigger.active{
+	background-color: tomato;
+	border-radius: 15px;
+	padding: 5px 15px;
+	color: #fff;
+}
+
+ul li a{
+	color: black;
+}
+
+
+
+
+
+
+/*seaction one*/
+.hero{
+	background: url(../img/bg.png)center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.don h2{
+	font-size: 45px;
+	color: #fff;
+	text-align: center;
+	margin-top:350px;
+	font-family: regular;
+}
+.don p{
+	font-size: 15px;
+	color: #fff;
+	text-align: center;
+	margin: 20px 0px;
+	font-family: regular;
+}
+
+
+
+/*global img*/
+ img{
+	display: block;
+	margin: 0px auto;
+}
+
+
+
+
+
+.logo h3{
+	color: #fff;
+	text-align: center;
+	font-family: regular;
+}
+.logo p{
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 60px;
+	font-family: regular;
+}
+.btn{
+
+	display: block;
+	margin: 0px auto;
+	background-color: #ffff;
+	color: #612316;
+	border-radius: 20px;
+	margin-bottom: 100px;
+	padding: 5px 15px;
+}
+.btn:hover{
+	background-color: tomato;
+}
+
+
+
+
+  /*seaction two*/
+
+.facilisis{
+	background-color: #edeff1;
+}
+
+
+.section-two h2{
+	text-align: center;
+	margin: 30px 0px 60px;
+	font-family: regular;
+
+}
+.logo-two h3{
+	text-align: center;
+	font-size: 30px;
+	font-family: regular;
+}
+.logo-two p{
+	text-align: center;
+	font-size: 12px;
+	font-family: regular;
+}
+
+
+
+
+
+/*seaction three*/
+
+.backgroundimg{
+	background: url(../img/bg3.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 50px 0px 80px;
+}
+.seaction-three h2{
+	margin: 30px 0px;
+	font-size: 35px;
+	text-align: center;
+	color: #fff;
+	font-family: regular;
+}
+.seaction-three p{
+	text-align: center;
+	color: #fff;
+	text-align: justify;
+	margin-bottom: 50px;
+	font-family: regular;
+
+}
+.shihab{
+	position: relative;
+}
+.input{
+	width: 250px;
+	padding: 10px 20px;
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	color: #fff;
+
+}
+::placeholder{
+	color: #fff;
+}
+
+
+
+.input-two{
+	position: absolute;
+	color: #612316;
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 12px 30px;
+	border: none;
+    right: 50px;
+}
+
+
+
+
+
+
+
+/*seaction four*/
+
+.abdullah{
+
+}
+.section-four h2{
+	margin: 50px 0px 20px;
+	text-align: center;
+	font-size: 25px;
+	color: #191b29;
+	font-family: regular;
+}
+.section-four p{
+	text-align: center;
+	font-size: 15px;
+	font-family: regular;
+
+}
+.img-section{
+	margin: 50px 0px 20px;
+
+}
+.shawon{
+	display: block;
+	text-align: center;
+}
+.asif{
+	background-color: #dd4b2b;
+	color: #fff;
+	padding: 10px 30px;
+	border-radius: 25px;
+}
+.asif:hover{
+	background-color: black;
+
+}
+.faysal{
+
+	background-color: #4b4e73;
+	color: #fff;
+	padding: 10px 30px;
+	border-radius: 25px;
+}
+.faysal:hover{
+	background-color: black;
+
+}
+
+
+
+
+
+
+
+/*seaction five*/
+
+.seaction-five{
+	background-color: #d75d0e;
+	list-style: none;
+}
+.writting-part{
+	list-style: none;
+	display: inline-block;
+	margin: 50px 0px;
+	text-align: center;
+}
+.writting-part ul{
+
+	list-style-type: none;
+}
+.writting-part ul li{
+	color: #fff;
+	font-family: regular;
+}
+
+
+
+/*footer part*/
+
+footer{
+	background: url(../img/bg3.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.img-part p{
+	margin: 80px 0px 200px;
+	color: #fff;
+	text-align: center;
+	font-family: regular;
+}
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width:500px){
+
+
+
+	.don h2{
+	font-size: 35px;
+	
+	margin-top:350px;
+	
+}
+.don p{
+	font-size: 15px;
+	color: #fff;
+	text-align: center;
+	margin: 20px 0px;
+	font-family: regular;
+}
+
+.writting-part{
+	
+	margin: 20px 0px;
+	
+}
+
+.img-part p{
+	margin: 50px 0px 150px;
+	
+	
+	
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
